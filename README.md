@@ -19,11 +19,8 @@
 | [정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933) | [정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934) | [제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935) | [짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) |
 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [x만큼의 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                              |                                                              |
+| [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |
+| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) |                                                              |                                                              |
 
 
 
