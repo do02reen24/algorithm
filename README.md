@@ -26,13 +26,13 @@
 
 ### 📙 Level2
 
-| []() | []() | []() | []() |
-| ---- | ---- | ---- | ---- |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
-| []() | []() | []() | []() |
+| [[3차]n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) |
+| [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) |
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883) | [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411) |
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885) | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) |
+| [타켓 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | []()                                                         | []()                                                         |
 
 
 
