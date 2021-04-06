@@ -37,7 +37,7 @@
 | [행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949) | [JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) | [N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) |
 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |
 | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=javascript#) |
-| [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) |                                                              |                                                              |                                                              |
+| [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#) |                                                              |                                                              |
 
 ### 📒 Level 3
 
