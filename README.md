@@ -38,7 +38,7 @@
 | [점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) | [영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981) | [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985) | [[1차] 프렌즈 4블록](https://programmers.co.kr/learn/courses/30/lessons/17679) |
 | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=javascript#) |
 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#) | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994#) |
-| []()                                                         | []()                                                         | []()                                                         | []()                                                         |
+| [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | []()                                                         | []()                                                         | []()                                                         |
 
 ### 📒 Level 3
 
