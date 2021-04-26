@@ -45,7 +45,7 @@
 
 | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | [베스트 앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [야근지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [멀리뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | []()                                                         | []()                                                         |
+| [야근지수](https://programmers.co.kr/learn/courses/30/lessons/12927) | [멀리뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) | [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | []()                                                         |
 
 ## 🧐 아이디어
 
