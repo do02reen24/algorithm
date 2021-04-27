@@ -21,7 +21,7 @@
 | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940) | [콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943) | [평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944) |
 | [하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [x만큼의 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) |
 | [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [예산](https://programmers.co.kr/learn/courses/30/lessons/12982) | [[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681) |
-| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) |                                                              |
+| [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682) | [음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501) | [로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) |
 
 ### 📙 Level 2
 
