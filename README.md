@@ -40,7 +40,7 @@
 | [[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680) | [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [[3차] 압축](https://programmers.co.kr/learn/courses/30/lessons/17684) | [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057?language=javascript#) |
 | [순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412) | [쿼드압축 후 개수 세기](https://programmers.co.kr/learn/courses/30/lessons/68936#) | [가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) | [방문길이](https://programmers.co.kr/learn/courses/30/lessons/49994#) |
 | [수식최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) | [배달](https://programmers.co.kr/learn/courses/30/lessons/12978) | [[1차]뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) | [후보키](https://programmers.co.kr/learn/courses/30/lessons/42890) |
-| [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) |                                                              |
+| [[3차] 방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683) | [괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502) | [행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) | [2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) |
 
 ### 📒 Level 3
 
